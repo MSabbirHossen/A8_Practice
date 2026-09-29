@@ -1,0 +1,82 @@
+[
+  {
+    "id": "F001",
+    "name": "Rose",
+    "image": "https://www.freepik.com/free-photos-vectors/rose-jpg",
+    "description": "A classic symbol of love and beauty.",
+    "like-count": "150",
+    "color": "red"
+  },
+  {
+    "id": "F002",
+    "name": "Tulip",
+    "image": "https://unsplash.com/s/photos/tulip",
+    "description": "A bright and cheerful spring flower.",
+    "like-count": "120",
+    "color": "yellow"
+  },
+  {
+    "id": "F003",
+    "name": "Sunflower",
+    "image": "https://unsplash.com/s/photos/sunflower",
+    "description": "Known for its large size and sunny appearance.",
+    "like-count": "200",
+    "color": "yellow"
+  },
+  {
+    "id": "F004",
+    "name": "Lily",
+    "image": "https://unsplash.com/s/photos/lily",
+    "description": "Elegant flower often used in ceremonies.",
+    "like-count": "95",
+    "color": "white"
+  },
+  {
+    "id": "F005",
+    "name": "Orchid",
+    "image": "https://unsplash.com/s/photos/orchid",
+    "description": "An exotic flower with unique patterns.",
+    "like-count": "180",
+    "color": "purple"
+  },
+  {
+    "id": "F006",
+    "name": "Daisy",
+    "image": "https://unsplash.com/s/photos/daisy",
+    "description": "A simple and fresh-looking flower.",
+    "like-count": "85",
+    "color": "white"
+  },
+  {
+    "id": "F007",
+    "name": "Marigold",
+    "image": "https://unsplash.com/s/photos/marigold-flower",
+    "description": "Popular flower used in festivals and decoration.",
+    "like-count": "110",
+    "color": "orange"
+  },
+  {
+    "id": "F008",
+    "name": "Lavender",
+    "image": "https://unsplash.com/s/photos/lavender-flower",
+    "description": "Known for its calming fragrance.",
+    "like-count": "140",
+    "color": "violet"
+  },
+  {
+    "id": "F009",
+    "name": "Hibiscus",
+    "image": "https://unsplash.com/s/photos/hibiscus-flower",
+    "description": "A tropical flower with large petals.",
+    "like-count": "130",
+    "color": "pink"
+  },
+  {
+    "id": "F010",
+    "name": "Lotus",
+    "image": "https://unsplash.com/s/photos/lotus-flower",
+    "description": "Symbol of purity and spiritual growth.",
+    "like-count": "210",
+    "color": "pink"
+  }
+]
